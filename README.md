@@ -18,16 +18,6 @@ An interactive dashboard web application built using **Next.js + React + TypeScr
 - **Styling**: Tailwind CSS, ShadCN UI
 - **State Management**: React Hooks
 
-## 📂 Folder Structure
-
-mindwebs-dashboard/
-├── components/ # Reusable UI Components
-├── lib/ # Utility functions
-├── pages/ # Next.js pages
-├── public/ # Static files
-├── styles/ # Global styles
-└── README.md
-
 Visit: http://localhost:3000
 
 npm install
