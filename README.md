@@ -18,10 +18,7 @@ An interactive dashboard web application built using **Next.js + React + TypeScr
 - **Styling**: Tailwind CSS, ShadCN UI
 - **State Management**: React Hooks
 
-Visit: http://localhost:3000
 
-npm install
-npm run dev
 
 Developed by Saiteja Gundeti
 
